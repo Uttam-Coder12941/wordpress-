@@ -1,0 +1,182 @@
+body {
+	padding:0;
+	margin:0;
+}
+.main-manu {
+	width:100%;
+	height:72px;
+}.middle-manu{
+	width:80%;
+}
+.left-manu{
+	width:40%;
+	height:5px;
+}
+.left-manu img {
+  float: left;
+  height: 60px;
+  width: 168px;
+}
+.left-manu ul li {
+	list-style:none;
+	float:right;
+	margin-right:30px;
+	margin-top:20px;
+}
+.left-manu ul li a {
+	padding:10px;
+	color:black;
+	text-decoration:none;
+	font-size:20px;
+	font-family:tahoma;
+}
+.right-manu {
+  width: 30%;
+  float: right;
+}
+.right-manu ul{
+margin-top:-14px;
+}
+.right-manu ul li {
+	list-style:none;
+	float:left;
+	
+	
+	
+	
+}
+.right-manu ul li a {
+	padding:10px;
+	color:black;
+	text-decoration:none;
+	font-size:20px;
+	font-family:tahoma;
+}
+.post li a {
+	background:#ef077f;	
+}
+/* section menu started from here */
+.section1{
+	width:100%;
+	background:#12151B;
+	display:block;
+	overflow:hidden;
+	
+}
+
+.section1 ul li {
+	list-style:none;
+	float:left;
+}
+.section1  ul li a {
+	padding:10px;
+	color:#fff;
+	text-decoration:none;
+	font-size:20px;
+	display:block;
+	margin-top:-11px;
+	margin-bottom:9px;
+	font-family:tahoma;
+	
+}
+
+.section2 {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.section2 video {
+width:100%;
+height:759px;	
+}
+ .top-left {
+  font-family:tahoma;
+  position: absolute;
+  top: 55px;
+  left: 111px;
+  font-size: 30px;
+  width: 541px;
+  height: 50px;
+  text-align: left;
+}
+.section2 li{
+  font-family:tahoma;
+  font-size: 21px;
+  margin-left:48px;
+
+}
+
+
+.hire-freelancer a{
+	font-family:tahoma;
+	    float:left;
+		background:#ef077f;	
+		padding:10px;
+		margin-right:10px;
+		text-decoration:none;
+		font-size:20px;
+		color:#fff;
+}
+.earn-money a{
+	font-family:tahoma;
+	float:left;
+	    border:1px solid white;	
+		padding:10px;
+		text-decoration:none;
+		font-size:20px;
+		color:#fff;
+}
+.bottom-right {
+ position: absolute;
+  bottom: -500px;
+  right: -676px;
+  font-size:20px;
+}
+.section3 {
+	position:absolute;
+	top:765px;
+	left:0;
+	right:0;
+	bottom:0;
+}
+.section3 {
+	background:#12151B;
+	width:100%;
+	height:1400px;
+
+}
+.logo li {
+	float:left;
+	padding:30px;
+	list-style:none;
+}
+.logo li a{
+	text-decoration:none;
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+	font-family:tahoma;
+}
+
+.section3 h4{
+	color:#fff;
+	font-size:40px;
+	margin-left:25px;
+	
+}
+.section3 h2 {
+  float: left;
+  color: #fff;
+  font-size: 30px;
+  padding: 38px;
+  margin-right: 76px;
+	
+}
+.section3 p{
+  float: left;
+  width: 313px;
+  height: 300px;
+  color: #fff;
+  padding:10px;
+  font-size: 20px;
+}
